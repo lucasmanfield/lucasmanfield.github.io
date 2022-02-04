@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b9b2cfa.chunk.css",
+    "main.js": "/static/js/main.a5851ce1.chunk.js",
+    "main.js.map": "/static/js/main.a5851ce1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d8e806eb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d8e806eb.js.map",
+    "static/js/2.2d4f820c.chunk.js": "/static/js/2.2d4f820c.chunk.js",
+    "static/js/2.2d4f820c.chunk.js.map": "/static/js/2.2d4f820c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5b9b2cfa.chunk.css.map": "/static/css/main.5b9b2cfa.chunk.css.map",
+    "static/js/2.2d4f820c.chunk.js.LICENSE.txt": "/static/js/2.2d4f820c.chunk.js.LICENSE.txt",
+    "static/media/JUN20-MSS-Logo-Banner.e09ecdc9.png": "/static/media/JUN20-MSS-Logo-Banner.e09ecdc9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8e806eb.js",
+    "static/js/2.2d4f820c.chunk.js",
+    "static/css/main.5b9b2cfa.chunk.css",
+    "static/js/main.a5851ce1.chunk.js"
+  ]
+}
